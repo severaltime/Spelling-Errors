@@ -1,1 +1,5 @@
-# 数据集：
+ 数据集：
+
+（1）spell_errors_probs.txt 正确英文单词拼写错误情况统计，比如单词bacon会被错拼成backen、baken
+（2）spell_errors_vocab.txt 英文单词词库
+（3）spell_errors_test_data.txt 用于检验模型训练效果的测试数据集
